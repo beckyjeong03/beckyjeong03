@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Becky👋
 
-<!--
-**beckyjeong03/beckyjeong03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a 3rd year Computer Science student at University of Waterloo with a passion for Full Stack Development and  Cloud Computing. I'm currently focused on learning more about AI and NestJS.
 
-Here are some ideas to get you started:
+🎓 I'm studying Computer Science at University of Waterloo
+🌱 I'm currently learning more about Full Stack Development and artificial intelligence
+💼 I'm looking to collaborate on open source projects and innovative tech ideas
+📫 How to reach me: [bjeong@uwaterloo.ca](mailto:bjeong@uwaterloo.ca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: C++/C, Javascript, Typescript, Python, Java etc..
+- Frameworks: React, Next.js, Nest.js etc ..
+- Tools: Git, Docker
+- Databases: Postgres, MongoDB
+
+## 📈 GitHub Stats
+
+![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckyjeong03&show_icons=true&theme=radical)
+
+## 🎯 Projects
+Here are some of the projects I've worked on:
+
+### [Currently Working on: Makup Backend](https://github.com/beckyjeong03/makeup-backend)
+- The project MakeUp is to create a website where Users can filter makeup products by their ingredients and their skintype
+- I'm planning and working on...
+- using Nestjs for BackEnd
+- using MongoDB for Database
+- using Nextjs for Frontend
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/becky-jeong/)
+- [Twitter](https://x.com/bjeong0710)
+- [Website](https://www.beckyjeong.com/)
