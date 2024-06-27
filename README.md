@@ -14,10 +14,6 @@ I'm a 3rd year Computer Science student at University of Waterloo with a passion
 - Tools: Git, Docker
 - Databases: Postgres, MongoDB
 
-## 📈 GitHub Stats
-
-![Becky's GitHub stats](https://github-readme-stats.vercel.app/api?username=beckyjeong03&show_icons=true&theme=radical)
-
 ## 🎯 Projects
 Here are some of the projects I've worked on:
 
